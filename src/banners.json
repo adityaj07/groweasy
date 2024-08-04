@@ -1,0 +1,44 @@
+{
+    "banners": [
+      {
+        "id": "1",
+        "title": "Summer Sale!",
+        "description": "Get up to 50% off on all summer essentials. Limited time offer!",
+        "cta": "Shop Now",
+        "image": "/images/square-1.png",
+        "template": "template1"
+      },
+      {
+        "id": "2",
+        "title": "New Arrivals",
+        "description": "Check out our latest collection of trendy outfits for all occasions.",
+        "cta": "Explore Collection",
+        "image": "/images/square-2.png",
+        "template": "template2"
+      },
+      {
+        "id": "3",
+        "title": "Tech Gadgets",
+        "description": "Discover cutting-edge technology at unbeatable prices. Upgrade your life today!",
+        "cta": "View Gadgets",
+        "image": "/images/square-3.png",
+        "template": "template3"
+      },
+      {
+        "id": "4",
+        "title": "Fitness Challenge",
+        "description": "Join our 30-day fitness challenge and transform your body. Start your journey now!",
+        "cta": "Sign Up",
+        "image": "/images/square-3.png",
+        "template": "template1"
+      },
+      {
+        "id": "5",
+        "title": "Gourmet Delights",
+        "description": "Indulge in exquisite flavors from around the world. Order now for a culinary adventure!",
+        "cta": "Order Now",
+        "image": "/images/square-4.png",
+        "template": "template2"
+      }
+    ]
+  }
